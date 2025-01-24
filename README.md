@@ -16,3 +16,8 @@ The dataset used in this project is sourced from Zomato Dataset. Ensure you have
 
 
 ![Image](https://github.com/user-attachments/assets/519b7604-a7af-4502-a0d1-cae10f14f875)
+![Image](https://github.com/user-attachments/assets/f1afff98-b665-4cc0-a0cb-047de8fe83af)
+![Image](https://github.com/user-attachments/assets/94d225e1-e4eb-4230-83d9-d7a4d8432453)
+![Image](https://github.com/user-attachments/assets/4557f80a-8944-40f9-809e-96cde4f0109b)
+![Image](https://github.com/user-attachments/assets/857e7850-4b29-4ccb-9b1f-1f391bf966bb)
+![Image](https://github.com/user-attachments/assets/e7f50e4d-9e17-4cea-8d75-babf6f85aa62)
