@@ -1,22 +1,22 @@
  #ZOMATO DATA ANALYSIS 
 
  
- Overview
+ -Overview
 
  
-This project analyzes Zomato data to derive meaningful insights about restaurants, customer preferences, pricing trends, and other key aspects of the food industry. The goal is to use data-driven approaches to uncover patterns and trends that can help improve business strategies or enhance user experience.
+-This project analyzes Zomato data to derive meaningful insights about restaurants, customer preferences, pricing trends, and other key aspects of the food industry. The goal is to use data-driven approaches to uncover patterns and trends that can help improve business strategies or enhance user experience.
 
 
-Dataset
+-Dataset
 
 
-The dataset used in this project is sourced from Zomato Dataset. Ensure you have the dataset in the appropriate directory before running the analysis.
+-The dataset used in this project is sourced from Zomato Dataset. Ensure you have the dataset in the appropriate directory before running the analysis.
 [Zomato data .csv](https://github.com/user-attachments/files/18532281/Zomato.data.csv)
 
 
 
-The project analyzes Zomato data to derive meaningful insights about restaurants, customer preferences, pricing trends, and other key aspects of the food industry. 
-Several visualizations (PNG images) were generated as outputs to provide insights into the data.
+-The project analyzes Zomato data to derive meaningful insights about restaurants, customer preferences, pricing trends, and other key aspects of the food industry. 
+-Several visualizations (PNG images) were generated as outputs to provide insights into the data.
 
 ![Image](https://github.com/user-attachments/assets/519b7604-a7af-4502-a0d1-cae10f14f875)
 ![Image](https://github.com/user-attachments/assets/f1afff98-b665-4cc0-a0cb-047de8fe83af)
@@ -26,28 +26,28 @@ Several visualizations (PNG images) were generated as outputs to provide insight
 ![Image](https://github.com/user-attachments/assets/e7f50e4d-9e17-4cea-8d75-babf6f85aa62)
 
 
-Results and Insights
+-Results and Insights
 
-The analysis includes:
-
-
-Most popular cuisines and their distribution across different regions.
-
-Top-rated restaurants and factors influencing ratings.
-
-Pricing trends and their correlation with restaurant types and customer ratings.
-
-Geographic analysis to identify key areas for restaurant growth.
+-The analysis includes:
 
 
-Key Features
+1.Most popular cuisines and their distribution across different regions.
 
-Cleaning and preprocessing the Zomato dataset to handle missing or inconsistent data.
+2.Top-rated restaurants and factors influencing ratings.
 
-Exploratory data analysis (EDA) to uncover trends and relationships in the data.
+3.Pricing trends and their correlation with restaurant types and customer ratings.
 
-Visualizing key metrics such as restaurant ratings, pricing trends, cuisine popularity, and geographic distribution.
+4.Geographic analysis to identify key areas for restaurant growth.
 
-Deriving insights to support decision-making for businesses in the food and beverage industry.
+
+-Key Features
+
+1.Cleaning and preprocessing the Zomato dataset to handle missing or inconsistent data.
+
+2.Exploratory data analysis (EDA) to uncover trends and relationships in the data.
+
+3.Visualizing key metrics such as restaurant ratings, pricing trends, cuisine popularity, and geographic distribution.
+
+4.Deriving insights to support decision-making for businesses in the food and beverage industry.
 
 
