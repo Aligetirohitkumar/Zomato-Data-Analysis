@@ -12,3 +12,7 @@ Dataset
 
 The dataset used in this project is sourced from Zomato Dataset. Ensure you have the dataset in the appropriate directory before running the analysis.
 [Zomato data .csv](https://github.com/user-attachments/files/18532281/Zomato.data.csv)
+
+
+
+![Image](https://github.com/user-attachments/assets/519b7604-a7af-4502-a0d1-cae10f14f875)
